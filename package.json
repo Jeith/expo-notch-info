@@ -1,0 +1,29 @@
+{
+  "name": "react-native-notch-info",
+  "version": "1.0.0",
+  "description": "Get device notch info using expo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeith/expo-has-notch.git"
+  },
+  "keywords": [
+    "react-native",
+    "notch",
+    "expo",
+    "hasNotch",
+    "has",
+    "notch",
+    "notch",
+    "height"
+  ],
+  "author": "jeith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeith/expo-has-notch/issues"
+  },
+  "homepage": "https://github.com/Jeith/expo-has-notch#readme"
+}
